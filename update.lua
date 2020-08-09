@@ -1,7 +1,8 @@
 curversion = {}
 curversion[1] = 1
 curversion[2] = 1
-curversion[3] = 1
+curversion[3] = 1 -- only here so it doesnt crash, never actually needed
+version[3] = 1
 newurl = {}
 newurl[1] = 'https://cdn.discordapp.com/attachments/698251592876687553/741793454174240838/colours.lua'
 newurl[2] = 'https://cdn.discordapp.com/attachments/698251592876687553/741793457252597820/sprite.lua'
